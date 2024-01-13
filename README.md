@@ -77,4 +77,7 @@ Online tutorials and official documentation of tools used.
 
 ## Screenshots:
 
-    ![screenshot](open.png)
+    ![screenshot](wazuh.png)
+    ![screenshot](alerts.png)
+    ![screenshot](alerts2.png)
+    ![screenshot](setnetwork.png)
