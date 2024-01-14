@@ -1,4 +1,4 @@
-# Cybersecurity Homelab 
+# Cybersecurity Home Lab 
 
 ## Objective:
 Establish a comprehensive home lab for hands-on practice in various cybersecurity domains.
@@ -27,9 +27,6 @@ The Cybersecurity Home Lab project aims to create a dynamic environment for cont
 2. Virtual machines running various operating systems for penetration testing and defense. 
 3. Integration of IDS/IPS using Suricata and Wazuh. 
 4. Simulated server and office environment sharing a local network.
-
-
-**Challenges & Solutions:** Challenge: Integration of ELK Stack for log analysis. Solution: Extensive research, online tutorials, and collaboration with the community. 
 
 ## Implementation Details: 
 1. Installed and configured Virtualbox.
