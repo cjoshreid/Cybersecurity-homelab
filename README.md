@@ -9,7 +9,7 @@ Mock up a simulation of a small company with a server, office staff, and a local
 December 2023 - Present 
 
                                                  
-## Software/OS Used:
+## Software/OS Used: 
 - VirtualBox 
 - OPNsense 23.7
 - Suricata 
