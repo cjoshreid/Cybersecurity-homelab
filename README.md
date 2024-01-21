@@ -65,12 +65,12 @@ Successful creation of a dynamic and secure home lab environment, gaining practi
 7. Centralized Logging with ELK Stack: Integrate ELK Stack (Elasticsearch, Logstash, Kibana) to centralize logs from Ubuntu Server, Windows 10, and Wazuh. Create custom dashboards to visualize security events. 
 8. Incident Response Simulation: Simulate a security incident on the network and use Wazuh to detect and respond to the incident. Document the incident response process and lessons learned. 
 9. Implementing Security Policies: Define and implement security policies on OPNsense to control traffic between Ubuntu Server and Windows 10. Test the effectiveness of the policies in preventing unauthorized access. 
-10. Honeypot Deployment: Deploy a honeypot using tools like Honeyd or Modern Honey Network (MHN). Monitor and analyze the attacks directed at the honeypot, enhancing threat intelligence. Remember to document each project thoroughly, including configurations, findings, and any improvements made. 
+10. Honeypot Deployment: Deploy a honeypot using tools like Honeyd or Modern Honey Network (MHN). Monitor and analyze the attacks directed at the honeypot, enhancing threat intelligence. 
 
 These projects will provide practical experience across various cybersecurity domains.
 
 ## References: 
-Online tutorials and official documentation of tools used. 
+Online tutorials, ChatGPT, and official documentation of tools used. 
 
 ## Screenshots:
 
